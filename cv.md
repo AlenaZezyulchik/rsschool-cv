@@ -31,3 +31,7 @@ allert(result);
 ### Experience:
 
 Without experience
+
+### Education:
+
+Belarusian State Economic University (2010-2014). Faculty of Economics and Trade Management
