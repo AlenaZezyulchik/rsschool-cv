@@ -35,3 +35,7 @@ Without experience
 ### Education:
 
 Belarusian State Economic University (2010-2014). Faculty of Economics and Trade Management
+
+### Language:
+
+**_A1+_** I studied English at school and university.
