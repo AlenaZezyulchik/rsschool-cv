@@ -27,3 +27,7 @@ const getSum = (array) => {
 const result = getSum([1,7,120,32,58,23,17]);
 allert(result);
 ```
+
+### Experience:
+
+Without experience
